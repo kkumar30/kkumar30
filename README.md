@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-	<a href="https://www.youtube.com/watch?v=VnxYrNRSxQM">
+	<a href="https://www.youtube.com/watch?v=2i47sGIurnA&list=OLAK5uy_mebYgGjMINiO11XqdRUSOHf7i30KuJ4Ns&index=2">
 		<img src="https://github.com/sindresorhus/sindresorhus/raw/master/info.svg?sanitize=true">
 	</a>
 </div>
