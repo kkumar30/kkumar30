@@ -12,12 +12,12 @@ Here are some ideas to get you started:
 - 💬 Ask me about Django
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ ⚡ Fun fact: 
 -->
-
+ ⚡ Still waiting for Flume's next album like 
 
 <div align="center">
 	<a href="https://www.youtube.com/watch?v=2i47sGIurnA&list=OLAK5uy_mebYgGjMINiO11XqdRUSOHf7i30KuJ4Ns&index=2">
-		<img src="https://i.stack.imgur.com/EzZiD.png">
+		<img src="https://i.ytimg.com/an_webp/ERFYhd3eWP8/mqdefault_6s.webp?du=3000&sqp=CPy2wJAG&rs=AOn4CLA5_stgWVs9ZukOQ5rX77tn4g1ryw">
 	</a>
 </div>
