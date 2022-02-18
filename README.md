@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 <div align="center">
 	<a href="https://www.youtube.com/watch?v=2i47sGIurnA&list=OLAK5uy_mebYgGjMINiO11XqdRUSOHf7i30KuJ4Ns&index=2">
-		<img src="https://github.com/sindresorhus/sindresorhus/raw/master/info.svg?sanitize=true">
+		<img src="//https://user-images.githubusercontent.com/24422019/122067742-07cabd00-ce1e-11eb-833d-5c367ed2f5fd.png">
 	</a>
 </div>
