@@ -14,10 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
  ⚡ Fun fact: 
 -->
- ⚡ Still waiting for Flume's next album like 
 
-<div align="center">
-	<a href="https://www.youtube.com/watch?v=ERFYhd3eWP8">
-		<img src="https://i.ytimg.com/an_webp/ERFYhd3eWP8/mqdefault_6s.webp?du=3000&sqp=CPy2wJAG&rs=AOn4CLA5_stgWVs9ZukOQ5rX77tn4g1ryw">
-	</a>
-</div>
+- 🔭 Currently CS grad student at UIUC
+- 🖊️ 🍍 🍎 🖊️
