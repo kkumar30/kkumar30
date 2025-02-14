@@ -15,5 +15,6 @@ Here are some ideas to get you started:
  ⚡ Fun fact: 
 -->
 
-- 🔭 Currently CS grad student at UIUC
+- 🔭 Currently developing at Chewy
+- 👨‍🎓 WPI, UIUC
 - 🖊️ 🍍 🍎 🖊️
